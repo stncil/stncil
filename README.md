@@ -1,4 +1,5 @@
 👋 Hi, I’m Akhil Sasi Kumar. I´m a graduate student at Northeastern University, Boston
+
 I´m also an intern at the Computational Sensing Group of Sony Semiconductor Solutions - Stuttgart Laboratory 1, Germany.
 
 - 🔭 I’m working on Deniosing Diffusion Models and the importance of sampling schedules.
